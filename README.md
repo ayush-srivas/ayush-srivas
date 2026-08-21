@@ -2,11 +2,11 @@
 
 🎓 *BTech CSE '30* 
 
-📊 *BS Data Science & Application @ IIT Madras* 
+📊 *BS in Data Science @ IIT Madras*  
 
 📍 India
 
-> 🐍 Python for my college core · ⚙️ C to master Data Structures from the ground up.
+🐍 Python (College Core) · ⚙️ C (DSA Mastery)
 
 ---
 
@@ -17,15 +17,16 @@
 
 ## 🧭 Dual-Track Roadmap (MS/PhD Prep)
 
-| 🎯 *Domain* | 🛠️ *Stack* | 📌 *Focus* |
+| Track | Tech | Focus |
 | :--- | :--- | :--- |
-| *Academics* | 🐍 Python | OOP, Data Viz, Statistics, ML (IITM curriculum). |
-| *DSA Mastery* | ⚙️ C | Arrays → Linked Lists → Trees → Sorting. Pure logic, manual memory. |
-| *Deep Bridge* | 🌉 C + Python | Solve the same problem in both to connect low-level & high-level thinking. |
+| 🎓 *College Core* | 🐍 Python | OOP, Data Viz, Statistics, ML (IITM curriculum). |
+| ⚙️ *DSA Foundation* | C | Arrays → Linked Lists → Trees → Sorting. Manual memory, no shortcuts. |
+| 🔗 *Integration* | C + Python | Solve the same problem in both to connect low-level & high-level thinking. |
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayush.srivastavade@gmail.com)
 
