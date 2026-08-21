@@ -11,7 +11,7 @@
 ---
 
 ## 📈 Coding Pulse
-![GitHub Streak](https://streak-stats.demolab.com?user=ayush-srivas&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=ayush-srivas&theme=dark&hide_border=true)
 
 ---
 
