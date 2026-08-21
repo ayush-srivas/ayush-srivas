@@ -1,6 +1,9 @@
 # 👋 Hi, I'm Ayush Srivastava
 
-🎓 *BTech CSE '30* · 📊 *BS in Data Science @ IIT Madras*  
+🎓 *BTech CSE '30*
+
+📊 *BS Data Science @ IIT Madras*  
+
 📍 India
 
 🐍 Python (College Core) · ⚙️ C (DSA Mastery)
@@ -8,7 +11,7 @@
 ---
 
 ## 📈 Coding Pulse
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush-srivas&show_icons=true&theme=radical&hide=contribs,prs)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayush-srivas&theme=dark&hide_border=true)
 
 ---
 
@@ -25,7 +28,7 @@
 ## 🤝 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-srivas)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayush.srivastavade@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayush.srivas.dev@gmail.com)
 
 ---
 
