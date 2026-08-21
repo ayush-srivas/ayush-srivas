@@ -1,9 +1,6 @@
 # 👋 Hi, I'm Ayush Srivastava
 
-🎓 *BTech CSE '30* 
-
-📊 *BS in Data Science @ IIT Madras*  
-
+🎓 *BTech CSE '30* · 📊 *BS in Data Science @ IIT Madras*  
 📍 India
 
 🐍 Python (College Core) · ⚙️ C (DSA Mastery)
@@ -19,7 +16,7 @@
 
 | Track | Tech | Focus |
 | :--- | :--- | :--- |
-| 🎓 *College Core* | 🐍 Python | OOP, Data Viz, Statistics, ML (IITM curriculum). |
+| 🎓 *College Core* | 🐍 Python | OOP, Data Viz, Statistics, ML (IIT Madras curriculum). |
 | ⚙️ *DSA Foundation* | C | Arrays → Linked Lists → Trees → Sorting. Manual memory, no shortcuts. |
 | 🔗 *Integration* | C + Python | Solve the same problem in both to connect low-level & high-level thinking. |
 
