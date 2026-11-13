@@ -28,7 +28,7 @@ I'm a Computer Science undergraduate at the beginning of my college journey, foc
 - 📈 Data Science & Analytics
 - 🔬 Research-oriented Computer Science
 
-I'm also pursuing a **BS in Data Science and Applications from IIT Madras**, alongside my B.Tech, with a long-term interest in machine learning, data science, software engineering, and research.
+I'm also pursuing a B.Tech, with a long-term interest in machine learning, data science, and research.
 
 I believe in learning by understanding concepts deeply, building things, experimenting, and solving problems.
 
@@ -41,7 +41,7 @@ I believe in learning by understanding concepts deeply, building things, experim
 | Degree | Institution |
 |---|---|
 | 🎓 B.Tech — Computer Science & Engineering | — |
-| 🎓 BS — Data Science and Applications | Indian Institute of Technology Madras |
+
 
 ---
 
